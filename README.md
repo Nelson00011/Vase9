@@ -1,4 +1,4 @@
-<h1 align="center">projectsFULLSTACK</h1>
+<h1 align="center">AI Engineer Agentic Track: MCP Course</h1>
 
 `main image`
 
@@ -35,13 +35,8 @@ Outline for general FULLSTACK DEVELOPMENT PROJECTs
     - Must be `cd`'d into frontend/client for install
     - MUI, `react-router-dom`, redux, formik, etc... (see resources)
 ```
-> npx create-react-app <project name>
 > cd <project name>
-> npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
-> npm install --save react-router-dom
-> npm install react-redux @reduxjs/toolkit
-> npm install formik yup dotenv react-responsive-carousel
-> npm install --save @stripe/react-stripe-js @stripe/stripe-js
+> uv sync
 ```
 - Test front-end once pages are generated (ctrl-c to exit):
 ```
@@ -100,11 +95,16 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - `Tech used and links associated`
 
 `<examples below>`
-- **PostMan** for API Tests [here](https://www.postman.com/)
-    - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
-    - jwt Debugger [here](https://jwt.io/#debugger-io)
-- **React.New** allows for testing new React projects [here](react.new)
-- [bcrypt.js](https://www.npmjs.com/package/bcryptjs) part of password hasing for user Authentification. 
+- **[Cursor](https://cursor.com/agents)** for AI-powdered code editor developered by Anysphere: 
+    - [Cursor](https://en.wikipedia.org/wiki/Cursor_(code_editor)) developers to write code using natural language instructions; Windows: 
+    ```
+    > powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+    > PS C:\Users\name> uv --version
+    uv 0.9.17 (2b5d65e61 2025-12-09)
+    ```
+    
+- **Astral UV** an extremely fast Python packae and project manager, written in Rust [here](https://docs.astral.sh/uv/)
 
 
 #### **style:** 
