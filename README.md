@@ -106,6 +106,8 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     
 - **Astral UV** an extremely fast Python packae and project manager, written in Rust [here](https://docs.astral.sh/uv/)
 
+- **[DeepSeek.AI](https://deepseek.ai/)** stands out with its focus on efficiency, performance, and accessibility. Their models are designed to be cost-effective while delivering state-of-the-art results via a Chrome extension.
+
 
 #### **style:** 
 - `frameworks and links associated`
@@ -117,6 +119,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 #### **helpful hint:** 
 - `useful hints for future projects to go faster`
 - console log testing with `ctr-alt-l` 
+- PowerShell may need to be restarted after the `ExecutionPolicy`, the cursor may also be unable to process the `uv sync` command if the device is not restarted first. 
 - Always Stay Positive & Triple Check Permissions :)
 
 
