@@ -37,7 +37,11 @@ Outline for general FULLSTACK DEVELOPMENT PROJECTs
 ```
 > cd <project name>
 > uv sync
+> python --version
+> jupyter --version
 ```
+- `Python 3.13.5` is the expected response in the Terminal
+
 - Test front-end once pages are generated (ctrl-c to exit):
 ```
 > npm run start
@@ -108,6 +112,12 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 
 - **[DeepSeek.AI](https://deepseek.ai/)** stands out with its focus on efficiency, performance, and accessibility. Their models are designed to be cost-effective while delivering state-of-the-art results via a Chrome extension.
 
+- **5 WorkFlow Design Patterns**
+1) Prompt Chaining: Decompose into fixed sub-tasks
+2) Routing: Direct an input into a specialized sub-task, ensuring separation of concerns
+3) Parallelization: Breaking down tasks and running multiple subtasks concurrently
+4) Orchestrator-Worker: Complex tasks are broken down dynamically and combined
+5) Evaluator-Optimizer: LLM output is validated by another
 
 #### **style:** 
 - `frameworks and links associated`
