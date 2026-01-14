@@ -93,12 +93,15 @@ Connect with me on <a href="https://www.linkedin.com/in/ayla-nelson/">LinkedIn</
 
 Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 
-## Resources:
+## Resources - Calling Multiple LLMs:
+- **[OpenAI](https://openai.com/)** gpt-4o-mini
+- **[Anthropic](https://www.anthropic.com/)** Claude-3-7-Sonnet
+- **[Google](https://www.anthropic.com/)** Claude-3-7-Sonnet
+- **[Groq](https://groq.com/)** Open-Source LLM's including Llama3.3
+- **[Ollama](https://ollama.com/library/llama3.2)** Open-Source LLM's including Llama3.2
 
-- `Tech used and links associated`
-- `Tech used and links associated`
+- **[DeepSeek.AI](https://deepseek.ai/)** stands out with its focus on efficiency, performance, and accessibility. Their models are designed to be cost-effective while delivering state-of-the-art results via a Chrome extension.
 
-`<examples below>`
 - **[Cursor](https://cursor.com/agents)** for AI-powdered code editor developered by Anysphere: 
     - [Cursor](https://en.wikipedia.org/wiki/Cursor_(code_editor)) developers to write code using natural language instructions; Windows: 
     ```
@@ -110,7 +113,15 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     
 - **Astral UV** an extremely fast Python packae and project manager, written in Rust [here](https://docs.astral.sh/uv/)
 
-- **[DeepSeek.AI](https://deepseek.ai/)** stands out with its focus on efficiency, performance, and accessibility. Their models are designed to be cost-effective while delivering state-of-the-art results via a Chrome extension.
+- **[CrewAI](https://www.crewai.com/)** Agent Management Platform: 
+    - [CrewAI](https://docs.crewai.com/) makes it easy for enterprises to operate teams of AI agents that perform complex tasks autonomously, reliably and with full control. 
+    ```
+    uv tool install crewai
+    crewai create crew <name>
+    crewai run
+    ```
+    
+    - [CrewAI Flows](https://www.crewai.com/crewai-flows) streamline AI workflow creation and management, enabling developers to coordinate tasks and Crews for advanced automations.
 
 - **5 WorkFlow Design Patterns**
 1) Prompt Chaining: Decompose into fixed sub-tasks
