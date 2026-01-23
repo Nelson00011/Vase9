@@ -120,8 +120,17 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     crewai create crew <name>
     crewai run
     ```
-    
+
     - [CrewAI Flows](https://www.crewai.com/crewai-flows) streamline AI workflow creation and management, enabling developers to coordinate tasks and Crews for advanced automations.
+
+- [Serper](https://serper.dev/) Experience unparalleled speed with our industry-leading SERP API, delivering lightning-fast Google search results in 1-2 seconds, at unbeatable price:
+    - [Hugging Face](https://huggingface.co/)
+    - [Stanford](https://www.stanford.edu/)
+    - [PWC](https://www.pwc.com/us/en.html)
+
+- [LangChain](https://www.langchain.com/) an open-source framework that simplifies building applications powered by Large Language Models (LLMs).
+    - [LangGraph](https://www.langchain.com/langgraph) an open-source framework from the LangChain ecosystem for building powerful, stateful AI agents and multi-agent systems using graph-based architectures, allowing for complex, cyclic workflows with loops, memory, and human-in-the-loop controls, unlike simpler linear chains. LangSmith [Studio](https://docs.langchain.com/langsmith/studio), LangGraph [Platform](https://www.blog.langchain.com/langgraph-platform-ga/)
+    - [Deep Agents](https://docs.langchain.com/oss/python/deepagents/overview?_gl=1*1q27439*_gcl_au*MTY5Nzc5Nzk4NC4xNzY5MDMzNDMz*_ga*ODQyNjI4OTYwLjE3NjkwMzM0MzM.*_ga_47WX3HKKY2*czE3NjkxOTY4MTMkbzIkZzAkdDE3NjkxOTY4MTMkajYwJGwwJGgw) a standalone library for building agents that can tackle complex, multi-step tasks. Built on LangGraph and inspired by applications like Claude Code, Deep Research, and Manus, deep agents come with planning capabilities, file systems for context management, and the ability to spawn subagents.
 
 - **5 WorkFlow Design Patterns**
 1) Prompt Chaining: Decompose into fixed sub-tasks
